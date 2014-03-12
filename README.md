@@ -1,4 +1,4 @@
-openSPS - webbased programming interface for opensource SPS
+openSPS - webbased programming interface for open source SPS
 =============================================================
 
 2014-03-12 (YYYY-MM-DD), Ersan Günes, guenes@ieee.org
